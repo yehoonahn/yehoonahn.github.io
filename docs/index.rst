@@ -3,8 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Yehoon's Website
+Ahn Yehoon
 =====================
+I am a public health researcher at the National University of Singapore. 
+
+
 
 Add your content using ``reStructuredText`` syntax. See the
 `reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
@@ -15,3 +18,8 @@ documentation for details.
    :maxdepth: 2
    :caption: Contents:
 
+   about
+   contact
+   resources
+
+Hello, world!
