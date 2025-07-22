@@ -5,14 +5,25 @@
 
 Ahn Yehoon
 =====================
-I am a Research Assistant at the Saw Swee Hock School of Public Health, National University of Singapore. 
+.. image:: /_static/profile.jpg
+   :align: right
+   :width: 150px
 
+   **Research Assistant**  
+*Saw Swee Hock School of Public Health, National University of Singapore*
 
 
 Add your content using ``reStructuredText`` syntax. See the
 `reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
 documentation for details.
 
+.. tabs::
+   .. tab:: About
+      This is the about section where you can find information about me and my work.
+   .. tab:: Contact
+      This is the contact section where you can find ways to reach me.
+   .. tab:: Misc.
+      This is the miscellaneous section where you can find additional information or resources.
 
 .. toctree::
    :maxdepth: 2
@@ -22,4 +33,6 @@ documentation for details.
    contact
    resources
 
-Hello, world!
+
+
+
