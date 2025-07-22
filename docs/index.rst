@@ -5,7 +5,7 @@
 
 Ahn Yehoon
 =====================
-I am a public health researcher at the National University of Singapore. 
+I am a Research Assistant at the Saw Swee Hock School of Public Health, National University of Singapore. 
 
 
 
