@@ -18,11 +18,11 @@ documentation for details.
 
 .. tabs::
    .. tab:: About
-      This is the about section where you can find information about me and my work.
+      This is the about section.
    .. tab:: Contact
-      This is the contact section where you can find ways to reach me.
+      This is the contact section.
    .. tab:: Misc.
-      This is the miscellaneous section where you can find additional information or resources.
+      This is the miscellaneous section.
 
 .. toctree::
    :maxdepth: 2
