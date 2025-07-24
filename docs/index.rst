@@ -12,7 +12,6 @@ Ahn Yehoon
    **Research Assistant**  
 *Saw Swee Hock School of Public Health, National University of Singapore*
 
-
 Add your content using ``reStructuredText`` syntax. See the
 `reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
 documentation for details.
